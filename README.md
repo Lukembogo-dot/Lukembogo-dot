@@ -1,15 +1,17 @@
 # Luke_Portfolio
 Hi am Luke Mbogo
 <h1 align="center">Hi 👋, I'm Luke Mbogo</h1>
-<h3 align="center">Cybersecurity Enthusiast | Software Engineer | Cloud and Network security | AI Machine Learning.</h3>
+<h3 align="center">Business Information Technology Graduate | Cloud & Network Specialist | CyberSecurity Enthusiast | AI Engineer | Passionate IT Professional | QA/QE | Full-stack developer | Continuous Learner & Problem Solver
 
-- 🔭 I’m currently working on [Cloud and Network Security](https://github.com/Lukembogo-dot/htb_NTA)
+</h3>
 
-- 🌱 I’m currently learning **AWS Cloud Computing.**
+- 🔭 I’m currently working on becoming a solutions architect
+
+- 🌱 I’m currently polishing my **Software Engineering.** skills
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lukembogo-dot](https://github.com/Lukembogo-dot)
 
-- 💬 Ask me about **python, cloud and network configuration, traffic analysis.**
+- 💬 Ask me about **Full-stack development, cloud and network configuration, security.**
 
 - 📫 How to reach me **Lukembogo5@gmail.com**
 
