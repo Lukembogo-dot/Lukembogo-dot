@@ -7,7 +7,7 @@ Hi am Luke Mbogo
 
 - 🔭 I’m currently working on becoming a solutions architect
 
-- 🌱 I’m currently polishing my **Software Engineering.** skills
+- 🌱 I’m currently polishing my **Software Engineering** skills
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lukembogo-dot](https://github.com/Lukembogo-dot)
 
