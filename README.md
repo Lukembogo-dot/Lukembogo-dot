@@ -28,5 +28,9 @@ Hi am Luke Mbogo
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukembogo-dot&" alt="lukembogo-dot" /></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukembogo-dot&layout=compact&count_private=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=lukembogo-dot&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lukembogo-dot&layout=compact&theme=tokyonight" />
+</p>v
